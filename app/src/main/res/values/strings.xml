@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">proyecto</string>
+    <string name="textview">TextView</string>
+    <string name="textbienvenida">Bienvenido</string>
+    <string name="textregistro">Registro</string>
+    <string name="textlogin">login</string>
+    <string name="botoningresar">Ingresar</string>
+    <string name="botonregistrar">Registrar</string>
+</resources>
